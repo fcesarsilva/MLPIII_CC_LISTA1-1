@@ -2,7 +2,7 @@ package br.unipe.mlp.lista1.hello;
 
 /**
  * Classe Hello World.
- * @author jefferson
+ * @author jefferson ferreira barbosa
  * @date 18/02/2014
  */
 public class HelloWorld {
